@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+    font-weight: 700;
+}
+.intro{
+    text-align: center;
+    font-weight: 1100;
+    
+}
+
+body{
+    background-image: url(background2.jpeg);
+    background-size: cover;
+   
+   
+}
+.bg-image{
+    filter: blur(8px);
+}
+
+
